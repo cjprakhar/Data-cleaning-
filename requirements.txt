@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas>=2.1
+numpy>=1.26
+openpyxl>=3.1
+xlrd>=2.0
+plotly>=5.18
+rapidfuzz>=3.0
